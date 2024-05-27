@@ -1,3 +1,5 @@
+
+![logo](https://www.canva.com/design/DAGGYWa8UOQ/kkcm0BziZVZXPU9rDVv3EQ/edit?utm_content=DAGGYWa8UOQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 <h1 align="center">Hi 👋, I'm Code With Tushar</h1>
 <h3 align="center">A passionate frontend developer from India -IT Diploma</h3>
 
